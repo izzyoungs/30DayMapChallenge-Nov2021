@@ -27,8 +27,6 @@ Created using R and `osmplotr`:
 ```
 library(tidyverse)
 library(osmplotr)
-library(sp)
-library(ggpattern)
 
 bbox <- get_bbox(c (4.963140, 52.389737, 4.893471, 52.415745))
 

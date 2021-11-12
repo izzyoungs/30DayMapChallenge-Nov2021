@@ -1,16 +1,5 @@
 Done:
-1: Points // 2: Lines // 3: Polygons // 4: Hexagons // 5: OSM
-
-Unfinished:
-6 Red
-
-7 Green
-
-8 Blue
-
-9 Monochrome
-	https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/
-	R
+1: Points // 2: Lines // 3: Polygons // 4: Hexagons // 5: OSM // 6: Red // 7: Green // 8: Blue // 9: Monochrome
 
 10 Raster
 

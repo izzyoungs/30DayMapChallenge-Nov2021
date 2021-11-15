@@ -1,20 +1,8 @@
 Done:
-1: Points // 2: Lines // 3: Polygons // 4: Hexagons // 5: OSM // 6: Red // 7: Green // 8: Blue // 9: Monochrome
-
-10 Raster
-
-11 3D
-	Two-tone elevation at angle
-	NASA elevation data
-
-12 Population
-	Movebank https://www.movebank.org/cms/movebank-main
+1: Points // 2: Lines // 3: Polygons // 4: Hexagons // 5: OSM // 6: Red // 7: Green // 8: Blue // 9: Monochrome // 10: Raster // 11: 3D // 12: Population // 14: Map with a new tool
 
 13 Natural Earth data
 	R?
-
-14 Map with a new tool
-	QGIS
 
 16 Urban/rural
 
